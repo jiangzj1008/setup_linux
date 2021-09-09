@@ -31,7 +31,7 @@ install_sublime() {
 }
 
 install() {
-    # install_essential
+    install_essential
     # sublime
     install_sublime
 }
